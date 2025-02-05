@@ -34,4 +34,3 @@
     </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgit-hub&show_icons=true&locale=en" alt="mohitgit-hub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgit-hub&" alt="mohitgit-hub" /></p>
