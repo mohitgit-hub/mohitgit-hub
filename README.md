@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Dad</h1>
 <h3 align="center">A passionate smart contract developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgit-hub&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgit-hub" /> </p>
+
 <p align="left"> <a href="https://twitter.com/0xmoh1t" target="blank"><img src="https://img.shields.io/twitter/follow/0xmoh1t?logo=twitter&style=for-the-badge" alt="0xmoh1t" /></a> </p>
 
 - 🔭 I’m currently working on **deVotes- A DeCentralized voting platform**
@@ -30,4 +32,6 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
     </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgit-hub&show_icons=true&locale=en" alt="mohitgit-hub" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgit-hub&" alt="mohitgit-hub" /></p>
